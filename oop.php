@@ -10,4 +10,5 @@ class Buy{
 }
 $buy = new Buy(1000, 200);
 echo $buy
+
 ?>
